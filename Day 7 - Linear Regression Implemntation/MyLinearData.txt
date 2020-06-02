@@ -1,0 +1,11 @@
+Domain,Age,Salary
+Web dev,27,40000
+App dev,29,48000
+ML Engi.,32,68000
+App dev,35,60000
+ML Engi.,36,72000
+Web dev,38,70000
+App dev,40,69000
+Web dev,42,65000
+ML Engi.,43,81000
+Web dev,45,82000
